@@ -29,6 +29,11 @@ In acest workshop vom acoperi topici precum: __Relatii in baza de date__ si __Di
 3. Flow Chart
 4. Baza de date
 
+## Linkuri utile
+1. [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+2. [Slim3 - librarie pt rutare](routing)
+3. [Twig - librarie pt template](templates)
+
 ### Deadline Proiect - 4 mai
 
 ### Premiere - 17 mai
