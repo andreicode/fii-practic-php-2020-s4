@@ -29,8 +29,8 @@ In acest workshop vom acoperi topici precum: __Relatii in baza de date__ si __Di
 3. Flow Chart
 4. Baza de date
 
-## Deadline Proiect - 4 mai
+### Deadline Proiect - 4 mai
 
-## Premiere - 17 mai
+### Premiere - 17 mai
 
 
